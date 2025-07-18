@@ -1,11 +1,5 @@
 print("loading....")
 
-    ["lucide-home"] = "rbxassetid://10709751939",
-    ["lucide-wind"] = "rbxassetid://10709752035",
-    ["lucide-portal"] = "rbxassetid://10709752254",
-    ["lucide-user"] = "rbxassetid://10709752405",
-    ["settings"] = "rbxassetid://10709752630",
-}
 --Function
 
 
